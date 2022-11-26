@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@discordjs/rest": "^1.0.1",
+    "cheerio": "^1.0.0-rc.12",
+    "comma-number": "^2.1.0",
+    "discord-gamecord": "^2.1.0",
+    "discord-player": "^5.3.1",
+    "discord.js": "^13.10.2",
+    "discord.js-captcha": "^3.0.4",
+    "dokdo": "^0.5.1",
+    "mongoose": "^6.5.1",
+    "request": "^2.88.2"
+  }
+}
